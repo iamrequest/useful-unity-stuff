@@ -99,7 +99,7 @@ public class EventChannelRaiser : MonoBehaviour {
 
 See also:
 
-	* [Unity Youtube, Open Projects Devlog: Game Architecture with ScriptableObjects](https://www.youtube.com/watch?v=WLDgtRNK2VE)
-	* An example from one of my games, Disco Queen: Dancing FeVR, that heavily used event channels:
-		* [Event channel definition](https://github.com/iamrequest/disco-queen-dancing-fever/blob/master/Assets/EventChannels/gameState/GameStateEventChannel.cs)
-		* [Event channel usage](https://github.com/iamrequest/disco-queen-dancing-fever/blob/master/Assets/Scripts/gameState/GameManager.cs#L7)
+* [Unity Youtube, Open Projects Devlog: Game Architecture with ScriptableObjects](https://www.youtube.com/watch?v=WLDgtRNK2VE)
+* An example from one of my games, Disco Queen: Dancing FeVR, that heavily used event channels:
+	* [Event channel definition](https://github.com/iamrequest/disco-queen-dancing-fever/blob/master/Assets/EventChannels/gameState/GameStateEventChannel.cs)
+	* [Event channel usage](https://github.com/iamrequest/disco-queen-dancing-fever/blob/master/Assets/Scripts/gameState/GameManager.cs#L7)
