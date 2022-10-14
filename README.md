@@ -4,4 +4,5 @@ This is a compilation of a bunch of unity scripts and tips I've saved over the p
 
 ## Sections
 
+  * [General Unity](notes/general-unity.md)
   * [Editor Scripts](notes/editor.md)
