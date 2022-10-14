@@ -26,12 +26,12 @@ public class EventChannelListener : MonoBehaviour {
 	public GameStateEventChannel someEventChannel;
 
 	// Subscribe and unsubscribe to events
-    private void OnEnable() {
-        eventChannel.onEventRaised += SomeFunction;
-    }
-    private void OnDisable() {
-        eventChannel.onEventRaised -= SomeFunction;
-    }
+	private void OnEnable() {
+		eventChannel.onEventRaised += SomeFunction;
+	}
+	private void OnDisable() {
+		eventChannel.onEventRaised -= SomeFunction;
+	}
 
 
 	private void SomeFunction() {
@@ -71,12 +71,12 @@ public class EventChannelListener : MonoBehaviour {
 	public GameStateEventChannel someEventChannel;
 
 	// Subscribe and unsubscribe to events
-    private void OnEnable() {
-        eventChannel.onEventRaised += SomeFunction;
-    }
-    private void OnDisable() {
-        eventChannel.onEventRaised -= SomeFunction;
-    }
+	private void OnEnable() {
+		eventChannel.onEventRaised += SomeFunction;
+	}
+	private void OnDisable() {
+		eventChannel.onEventRaised -= SomeFunction;
+	}
 
 
 	private void SomeFunction(int someValue) {
