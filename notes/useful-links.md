@@ -1,4 +1,4 @@
-# Useful Links
+# Useful Links, Learning Resources, and Free Assets
 
 ## Learning Resources
 
@@ -16,6 +16,13 @@
 * [Wire Whiz](https://wirewhiz.com/tutorials/): Great tutorials, with lots of VR-specific content
 * [Valem](https://www.youtube.com/c/ValemVR): Practical "How to make this feature in VR" videos
 * [VR with Andrew](https://www.youtube.com/c/VRwithAndrew): "How to make this feature in VR" videos, great videos about OpenXR and SteamVR
+
+## Useful Libraries
+
+* [Mathfs](https://github.com/FreyaHolmer/Mathfs): Expanded math library for Unity
+* [SMFLite](https://github.com/keijiro/smflite): Minimal MIDI file reader for Unity. Useful for rhythm games, or syncing animations/events to audio clips
+* [Uni VRM](https://github.com/vrm-c/UniVRM): [VRM](https://vrm.dev/en/) importer for Unity
+* [VR Tunnelling Pro](https://github.com/sigtrapgames/VrTunnellingPro-Unity): Super easy to use vignette solution
 
 ## Useful Links
 
