@@ -28,6 +28,7 @@
 
 * [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/List_of_Aesthetics): Useful for if you're looking for a style/theme for a game
 * [Machinations](https://machinations.io/): Useful for testing and balancing your game's economy and trading systems
+* [Useful extension methods for working with configurable joints](https://gist.github.com/mstevenson/4958837)
 * [VR Accessibility Checklist](https://github.com/vittorioromeo/vr-game-checklist/blob/main/README.md)
 
 ## Useful Tweets and Articles
