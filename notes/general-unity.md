@@ -103,6 +103,7 @@ See also: [Unity Docs: Coroutines](https://docs.unity3d.com/Manual/Coroutines.ht
 
 Note: Singletons are powerful and convinient, but they are shouldn't be overused ([stackoverflow: are singletons really that bad?](https://stackoverflow.com/a/1020384)). Singletons lead to tight coupling and spaghetti code, so use them with caution.
 
+```cs
 public class SingletonClass : MonoBehaviour {
 	public static SingletonClass Instance { get; private set; }
 
@@ -115,3 +116,4 @@ public class SingletonClass : MonoBehaviour {
 		}
 	}
 }
+```
