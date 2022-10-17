@@ -37,7 +37,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 public static class SaveSystem {
 
 	public static void SavePlayer(Player player) {
-		// The filename doesn't matter
+		// The filename and extension doesn't matter
 		string filename = "player.data";
 		string path = Application.persistentDataPath + "/" + filename;
 
