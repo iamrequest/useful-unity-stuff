@@ -92,8 +92,7 @@ Slerp (Spherical Lerp) is also a thing, which is the same thing only it interpol
 
 ```cs
 // Slerp(a, b, t);
-
-Quaternion.Lerp();
+Quaternion.Slerp();
 ```
 
 
